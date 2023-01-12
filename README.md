@@ -1,1 +1,1 @@
-# homework9
+homework9, using javascript methods
